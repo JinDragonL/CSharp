@@ -28,7 +28,7 @@ int maxArray = numbers.Length;
 
 int value = numbers[3];
 
-string[] names = new { }; //0,1,2
+string[] names = new string[]{ }; //0,1,2
 
 Console.WriteLine(names.Length);
 

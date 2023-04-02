@@ -11,7 +11,7 @@ list.AddLast("F");
 list.AddLast("G");
 list.AddLast("H");
 
-Node element = list.FirstOrDefault(x => x == "E");
+var element = list.FirstOrDefault(x => x == "E");
 
 Console.WriteLine(element);
 
