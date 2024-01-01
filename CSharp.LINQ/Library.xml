@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+	<Section name="Programming">
+		<Book ISBN="978-0-123456-78-9">
+			<Title>Introduction to XML</Title>
+			<Author>John Doe</Author>
+			<PublicationYear>2020</PublicationYear>
+		</Book>
+		<Book ISBN="978-1-234567-89-0">
+			<Title>Programming C#</Title>
+			<Author>Jane Smith</Author>
+			<PublicationYear>2018</PublicationYear>
+		</Book>
+	</Section>
+
+	<Section name="Data Structures">
+		<Book ISBN="978-2-345678-90-1">
+			<Title>Data Structures and Algorithms</Title>
+			<Author>Bob Johnson</Author>
+			<PublicationYear>2021</PublicationYear>
+		</Book>
+	</Section>
+	<Section name="Database"/>
+</Library>
